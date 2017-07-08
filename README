@@ -49,6 +49,7 @@ doc/**/*.txt
 
 
 $ git commit -m "Story 182: Fix benchmarks for speed"
+$ git commit -m -a "Story 182: Fix benchmarks for speed"
 
 
 

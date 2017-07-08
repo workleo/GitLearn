@@ -1,5 +1,7 @@
 $git help
 
+git config --global core.editor
+
 leo@leo ~/works/PHP/GIT/TEST $ git config --list
 user.name=Leonid
 user.email=antropoid2017@gmail.com
@@ -44,6 +46,9 @@ doc/**/*.txt
 
 вы можете используя git diff посмотреть непроиндексированные изменения
 а также уже проиндексированные, используя git diff --cached:  git diff --staged
+
+
+$ git commit -m "Story 182: Fix benchmarks for speed"
 
 
 
